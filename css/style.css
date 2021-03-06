@@ -87,7 +87,7 @@ h6 {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  background-color: yellow;
+  background-color: grey;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -118,7 +118,7 @@ h6 {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  background-color: blueviolet;
+  background-color: grey;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -130,15 +130,15 @@ h6 {
 
 .contact__me {
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
 }
 
 .addres__title {
   color: black;
-  font-size: 35px;
+  font-size: 30px;
+  font-weight: 900;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 500;
   padding: 10px 0 10px 0;
 }
 
@@ -146,14 +146,14 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .phone__title {
   color: black;
-  font-size: 35px;
+  font-size: 30px;
+  font-weight: 900;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 500;
   padding: 10px 0 10px 0;
 }
 
@@ -161,14 +161,14 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .web__title {
   color: black;
-  font-size: 35px;
+  font-size: 30px;
+  font-weight: 900;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 500;
   padding: 10px 0 10px 0;
 }
 
@@ -176,7 +176,7 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .information {
@@ -185,7 +185,7 @@ h6 {
 
 .information__about {
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
   padding-bottom: 10px;
 }
@@ -194,28 +194,27 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .strengths {
   color: black;
-  font-size: 35px;
+  font-size: 30px;
+  font-weight: 900;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 500;
   padding: 10px 0 10px 0;
 }
 
 .list {
   list-style-type: circle;
   list-style-position: inside;
-  margin-left: 10px;
 }
 
 .list__element {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .additional {
@@ -226,12 +225,12 @@ h6 {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  background-color: blueviolet;
+  background-color:grey;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding:10px 0 15px 0;
+  padding:10px 0 10px 0;
 }
 
 .skills{
@@ -240,7 +239,7 @@ h6 {
 
 .professional__skills{
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
   padding-bottom: 10px;
 }
@@ -249,7 +248,7 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .working{
@@ -258,7 +257,7 @@ h6 {
 
 .working__experience{
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
   padding-bottom: 10px;
 }
@@ -267,7 +266,7 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .education{
@@ -276,16 +275,16 @@ h6 {
 
 .education__title{
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
-  padding-bottom: 10px;
+  padding: 10px 0 10px 0;
 }
 
 .education__subtitle{
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .languages{
@@ -294,7 +293,7 @@ h6 {
 
 .languages__title{
   color: black;
-  font-size: 55px;
+  font-size: 60px;
   font-family: "Akaya Telivigala", cursive;
   padding-bottom: 10px;
 }
@@ -303,5 +302,5 @@ h6 {
   color: black;
   font-size: 20px;
   font-family: "Noto Sans JP", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
